@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+permalink: /contact/
 description: Get in touch with Chris W Ryan
 ---
 
