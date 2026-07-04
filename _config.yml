@@ -42,11 +42,11 @@ navigation:
 disqus: ""
 
 # Colors
-accent_color: '#116dff'
+accent_color: '#006666'
 
 # Site footer
 footer:
-  content: "&copy; Chris W Ryan. Photography by [Darren Hill](https://www.darrenhillphoto.com)."
+  content: "&copy; Chris W Ryan."
   has_social: true
 
 # Plugins
