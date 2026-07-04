@@ -46,7 +46,7 @@ accent_color: '#006666'
 
 # Site footer
 footer:
-  content: "&copy; Chris W Ryan."
+  content: "&copy; Chris W Ryan. Photography by Darren Hill."
   has_social: true
 
 # Plugins
