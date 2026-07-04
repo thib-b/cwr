@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Work
+permalink: /work/
 description: Selected Discography - Chris W Ryan
 ---
 
