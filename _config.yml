@@ -15,10 +15,10 @@ title: "CHRIS W RYAN"
 description: "producer / musician / composer"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "/cwr"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://chriswryan.github.io"
+url: "https://thib-b.github.io"
 
 # Favicon
 favicon: images/favicon.png
