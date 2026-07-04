@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+title: About
+description: About Chris W Ryan - producer, musician, composer
+feature_image: /assets/images/chris-ryan-about.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I spend most of my time making records, with tracks receiving playlisting on BBC Radio 1, BBC 6Music, KEXP and accolades from NME, Clash, DIY, The Quietus. I've produced albums for major and indie labels alike such as Partisan Records, Atlantic, Sony Music, So Young Records and more.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+Beyond my work with bands and solo artists I also collaborate with composers in the classical world, having worked on technologically-mediated compositions for the Ulster Orchestra and art installations using Max/MSP software.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+As a writer and composer my music has been used in TV and film. This includes scoring a number of short films including the BBC Two Minute Masterpiece Cycle, sync in the HBO documentary *Game of Thrones: The Last Watch* and the Sky TV show *The Lovers*.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+In 2019 I was the British Council/PRS Foundation Musician In Residence in Brazil, leading me to release a solo record called [SORBET](https://orcd.co/sorbet-2021) which blended my interests in classical music, improvisation and electronic production.
 
-*Thank You for reading!*
+I was commissioned in 2021 by Outburst Queer Arts Festival to compose the score for a monologue about nature through a queer lens.
+
+When I'm not in the studio I tend to be writing, recording and touring with [Robocobra Quartet](http://www.robocobraquartet.com/), in which I'm the drummer and vocalist. With the band, I've performed at Montreux Jazz Festival, Glastonbury and as far as Inversia Festival in the polar arctic.
+
+If you want to work together just get in touch and we can figure it all out.
