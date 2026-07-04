@@ -15,7 +15,8 @@ title: "CHRIS W RYAN"
 description: "producer / musician / composer"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "/cwr"
+# For GitHub Pages project sites, baseurl is handled automatically
+baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://thib-b.github.io"
