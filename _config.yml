@@ -22,7 +22,7 @@ baseurl: ""
 url: "https://thib-b.github.io"
 
 # Favicon
-favicon: images/favicon.png
+favicon: images/favicon.svg
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
