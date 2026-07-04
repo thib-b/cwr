@@ -74,3 +74,9 @@ description: Selected Discography - Chris W Ryan
 
 **Just Mustard** - [Wednesday](https://justmustard.bandcamp.com/album/wednesday) (LP, Pizza Pizza Records, 2018)  
 *Engineer*
+
+---
+
+## Spotify Playlist
+
+<iframe src="https://open.spotify.com/embed?uri=spotify%3Aplaylist%3A4omwHOpfsWmjRueKQPIwsp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
