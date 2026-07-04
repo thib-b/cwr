@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 description: About Chris W Ryan - producer, musician, composer
 feature_image: /assets/images/chris-ryan-about.jpg
 ---
