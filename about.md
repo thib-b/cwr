@@ -8,7 +8,7 @@ feature_image: /assets/images/chris-ryan-about.jpg
 
 I spend most of my time making records, with tracks receiving playlisting on **BBC Radio 1, BBC 6Music**, **KEXP** and accolades from **NME**, **Clash**, **DIY**, **The Quietus**. I've produced albums for major and indie labels alike such as Partisan Records, Atlantic, Sony Music, So Young Records and more.
 
-Beyond my work with bands and solo artists I also collaborate with composers in the classical world, having worked on technologically-mediated compositions for the **Ulster Orchestra** and art installations using **Max/MSP software**.
+Beyond my work with bands and solo artists I also collaborate with composers in the classical world, having worked on technologically-mediated compositions for the **Ulster Orchestra** and art installations using Max/MSP software.
 
 As a writer and composer my music has been used in TV and film. This includes scoring a number of short films including the **BBC Two Minute Masterpiece Cycle**, sync in the HBO documentary **Game of Thrones: The Last Watch** and the Sky TV show **The Lovers**.
 
